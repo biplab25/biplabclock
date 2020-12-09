@@ -1,14 +1,4 @@
-
-
-
-
-
-
-
-
-
-
-/*setInterval(showTime, 1000);
+setInterval(showTime, 1000);
 function showTime(){
 
 var date = new Date();
@@ -30,7 +20,7 @@ document.getElementById("MyClockDisplay").innerText = time;
 
 //showTime();
 
-*/
+
 
 
 
